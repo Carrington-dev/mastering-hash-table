@@ -70,6 +70,16 @@ class LinkedList{
             }
             cout << endl;
         }
+
+        void printLevel(){
+            /*
+                 2
+                / \
+               3   5
+               
+               23 25
+            */
+        }
 };
 
 int main(){
